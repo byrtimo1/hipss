@@ -15,7 +15,7 @@ Both proposed methods **_HEIR_** and **_HIPSS_** are part of this source code.
 ## Installation
 - `git clone https://github.com/frankroeder/hipss.git`
 - pip users: `pip install -r requirements.txt`
-- conda users: `conda create --file= conda_env.yaml`
+- conda users: `conda env create --file conda_env.yaml`
 
 ## Training
 
