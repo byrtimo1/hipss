@@ -79,6 +79,7 @@ cnn_augmentation: True
 embedding_size: 32
 # use one hot encodings for words
 one_hot: False
+cuda: True
 bidirectional: False
 with_gru: True
 dropout: 0.0

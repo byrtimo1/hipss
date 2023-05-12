@@ -8,7 +8,6 @@ import gym
 from mpi4py import MPI
 import numpy as np
 import torch
-import lanro_gym
 import wandb
 
 from gym_wrapper import FrameStack, GrayScaleObservation
