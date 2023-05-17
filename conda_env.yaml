@@ -8,7 +8,3 @@ dependencies:
   - pytorch::pytorch
   - tensorboard=2.7.0
   - wandb=0.12.7
-  - pip:
-    - gym==0.21.0
-    - pybullet==3.2.0
-    - git+ssh://git@github.com/frankroeder/lanro-gym.git

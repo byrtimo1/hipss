@@ -27,7 +27,7 @@ python train.py n_epochs=20 agent=LCSAC env_name=PandaNLReach2-v0
 
 ## Enjoy
 ```bash
-python demo.py --demo-path <path to the trial folder>
+python demo.py --demo-path .\model\LCSAC_20-31-18\
 python demo.py --wandb-url <wandb URI: entity/project/runs/trialid>
 ```
 
